@@ -1,1 +1,1 @@
-# ani717_gif_repository
+A repository containing GIF files for different Git Repositories.
