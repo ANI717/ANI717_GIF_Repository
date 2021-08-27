@@ -1,1 +1,1 @@
-A repository containing GIF files for different Git Repositories.
+A repository containing GIF files for Git Repositories.
